@@ -1,1 +1,1 @@
-# Conmputer-Visioni---USB-type-detector
+# Computer-Vision---USB-type-detector
